@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeneticistPrj", "GeneticistPrj.vcproj", "{A4EACC17-3279-4774-9C98-523D167055AA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeneticistMayaExporter", "GeneticistMayaExporter.vcproj", "{3C720783-2604-42F9-8BE9-47FB933BAF3D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4EACC17-3279-4774-9C98-523D167055AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4EACC17-3279-4774-9C98-523D167055AA}.Debug|Win32.Build.0 = Debug|Win32
+		{A4EACC17-3279-4774-9C98-523D167055AA}.Release|Win32.ActiveCfg = Release|Win32
+		{A4EACC17-3279-4774-9C98-523D167055AA}.Release|Win32.Build.0 = Release|Win32
+		{3C720783-2604-42F9-8BE9-47FB933BAF3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C720783-2604-42F9-8BE9-47FB933BAF3D}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<Clip>
+    <Bone id="0" />
+    <Bone id="1" />
+    <Bone id="2" />
+    <Bone id="3" />
+    <Bone id="4" >
+    </Bone>
+    <Bone id="5" />
+    <Bone id="6" />
+    <Bone id="7" />
+    <Bone id="8">
+        <Key t="1" x="0.000000" y="0.000000" z="0.000000" />
+        <Key t="30" x="0.000000" y="0.000000" z=".8297442" />
+        <Key t="60" x="0.000000" y="0.000000" z="0.000000" />
+    </Bone>
+    <Bone id="9">
+    </Bone>
+    <Bone id="10">
+    </Bone>
+    <Bone id="11" />
+    <Bone id="12" />
+    <Bone id="13" />
+    <Bone id="14" />
+    <Bone id="15" />
+    <Bone id="16" />
+    <Bone id="17" />
+    <Bone id="18">
+        <Key t="1" x="0.000000" y="0.000000" z="0.000000" />
+        <Key t="30" x="0.000000" y="0.000000" z=".8297442" />
+        <Key t="60" x="0.000000" y="0.000000" z="0.000000" />
+    </Bone>
+    <Bone id="19">
+    </Bone>
+    <Bone id="20" />
+    <Bone id="21" />
+    <Bone id="22" />
+    <Bone id="23" />
+    <Bone id="24" />
+    <Bone id="25" />
+    <Bone id="26" />
+    <Bone id="27" />
+    <Bone id="28" />
+    <Bone id="29" />
+    <Bone id="30" />
+    <Bone id="31" />
+    <Bone id="32" />
+    <Bone id="33" />
+    <Bone id="34" />
+    <Bone id="35" />
+    <Bone id="36" />
+    <Bone id="37" />
+    <Bone id="38" />
+    <Bone id="39" />
+    <Bone id="40" />
+    <Bone id="41" />
+    <Bone id="42" />
+</Clip>

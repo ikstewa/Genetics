@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Clip duration="2.0">
+  <Bone id="0">
+    <Key t="0" x="0" y="0" z="0"/>
+  </Bone>
+  <Bone id="1">
+    <Key t="0" x="0" y="0" z="0"/>
+    <Key t="100" x="0" y="0" z="-.6"/>
+  </Bone>
+  <Bone id="2">
+    <Key t="0" x="0" y="0" z="0"/>
+  </Bone>
+  <Bone id="3" />
+  <Bone id="4" />
+</Clip>
